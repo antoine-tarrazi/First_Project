@@ -1,2 +1,6 @@
 hello i m fred
+<<<<<<< HEAD
 I m 20 years old
+=======
+i m 18 
+>>>>>>> 2944111d39bb89f9a63e8868e2c4615419430ca9

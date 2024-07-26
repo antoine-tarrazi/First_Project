@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 my name is Charlie
+=======
+h i m charli
+>>>>>>> 2944111d39bb89f9a63e8868e2c4615419430ca9
